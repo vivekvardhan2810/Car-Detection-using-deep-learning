@@ -6,7 +6,7 @@ This project employs the MobileNetSSD algorithm to detect cars in images. Utiliz
 
 The aim of this project is to develop a robust car detection model using the MobileNetSSD algorithm that can accurately identify cars in a diverse set of images.
 
-## Data Set
+## DataSet
 
 https://www.kaggle.com/datasets/pear2jam/cars-drone-detection
 
